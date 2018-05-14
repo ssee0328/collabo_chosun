@@ -1,0 +1,10 @@
+<h1>게시물 목록</h1>
+<%@posts.each do |x|%>
+    제목 : <%=x.title%><br>
+    내용 : <%=x.content%><br>
+    <a href="/post/destroy/<%=x.id%>">삭제</a><br>
+    <a href="/post/edit/<%=x.id%>">수정</a><br>
+    ---------------------------<br><br>
+<%end%>
+
+<a href="/post/new"><p>새로운 글 쓰기</p></a>

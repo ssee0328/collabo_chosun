@@ -1,2 +1,3 @@
 class PostController < ApplicationController
+    
 end
