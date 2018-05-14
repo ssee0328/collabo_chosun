@@ -1,0 +1,36 @@
+[33mcommit beec5774a3fe51dd47b2908256a719bb9ed9a0ae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 545dd82 9774730
+Author: ssee0328 <phd960328@gmail.com>
+Date:   Mon May 14 11:53:31 2018 +0000
+
+    solved
+
+[33mcommit 545dd822237ee141e37f844d4963d6cc297ea1e6[m
+Author: ssee0328 <phd960328@gmail.com>
+Date:   Mon May 14 11:49:32 2018 +0000
+
+    front_01
+
+[33mcommit 9774730b5aa9d3cf0a6e407e97337d04348426d1[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: chosunme96 <chosunme96@naver.com>
+Date:   Mon May 14 11:45:49 2018 +0000
+
+    backend_01
+
+[33mcommit 4ba30d62b62e4ef175b15d7bd163643543cf9478[m
+Author: chosunme96 <chosunme96@naver.com>
+Date:   Mon May 14 11:18:49 2018 +0000
+
+    Post Model  생성!
+
+[33mcommit 2e4b4a882cd2d2add778a96713906b94a1d351a5[m
+Author: ssee0328 <phd960328@gmail.com>
+Date:   Mon May 14 11:16:40 2018 +0000
+
+    I'm A
+
+[33mcommit d4e50efdd48d56f318c11017d14278e19fc629ff[m
+Author: chosunme96 <chosunme96@naver.com>
+Date:   Mon May 14 10:59:10 2018 +0000
+
+    go
